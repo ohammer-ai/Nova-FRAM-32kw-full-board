@@ -1,4 +1,12 @@
 # Nova-FRAM-32kw-full-board
+
+## UPDATE! DON'T BUILD THIS BOARD, IT DOESN'T WORK!
+
+I thought it worked, because you can deposit and read back numbers from the front panel switches, but when it tries to execute instructions it
+behaves erratically. Must be a subtle timing problem, I'm working on it.
+
+---
+
 Schematics and PCB for a 32 kw FRAM board, Nova 800/1200 series. EasyEDA project, Gerber production files, and PDF schematic. Use ideally 1.4 mm board thickness. 1.2 mm will also probably work (does for me), while 1.6 mm is probably too thick. Produce with ENIG, and gold fingers.
 
 Jumper settings:
