@@ -3,7 +3,7 @@
 ## UPDATE! DON'T BUILD THIS BOARD, IT DOESN'T WORK!
 
 I thought it worked, because you can deposit and read back numbers from the front panel switches, but when it tries to execute instructions it
-behaves erratically. Must be a subtle timing problem, I'm working on it.
+behaves erratically. The problem is due to excessive noise on the INHIBIT signal from the CPU. Working on it - I may have to add a buffer or something.
 
 ---
 
